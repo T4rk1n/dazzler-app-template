@@ -6,4 +6,4 @@
 - Install requirements `pip install -r requirements.txt`
 - Generate a config file: `dazzler dump-configs dazzler.toml`
 - Modify `pages/home.py`, add pages, etc.
-- Start the app `python app.py`
+- Start the app `python app.py --reload`
